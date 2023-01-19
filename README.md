@@ -59,7 +59,7 @@ A simple discord bot template for the [bohr.io](https://bohr.io) platform. It us
     npx -y bohr@latest dev
     ```
 
-3. When starting your project locally, a tunnel url to your local project will be provided. Use for the `INTERACTIONS ENDPOINT URL` in the development application.
+3. When starting your project locally, a tunnel url to your local project will be provided. Use it for the `INTERACTIONS ENDPOINT URL` in the development application.
 
 <p align="center"><img width="400" src=".github/img/tunnel-url.png" /></p>
 
