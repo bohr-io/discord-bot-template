@@ -65,6 +65,12 @@ A simple discord bot template for the [bohr.io](https://bohr.io) platform. It us
 
 </br>
 
+## Updating Commands
+
+To update the bot commands use the project's endpoint `/update-commands`.
+
+This endpoint can receive the 'global' query parameter. When set to 'true', it updates global bot commands. Otherwise, it only updates commands for the 'TEST_GUILD_ID' server.
+
 ## Commands
 
  - server: send the channel and server that the user is in
